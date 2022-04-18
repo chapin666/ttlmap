@@ -1,5 +1,7 @@
 # ttlmap
 
+a Go package that provides an in-memory key-value cache for storing TTL-based expirable items.
+
 ## benchmark
 ```
 goos: darwin
